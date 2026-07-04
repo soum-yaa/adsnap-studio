@@ -17,7 +17,7 @@ A powerful Streamlit app for generating professional product ads using Bria AI's
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Samyak507/adsnap-studio.git
+git clone https://github.com/soum-yaa/adsnap-studio.git
 cd adsnap-studio
 ```
 
